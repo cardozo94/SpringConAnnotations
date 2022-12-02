@@ -1,6 +1,6 @@
 # Spring Con Annotations
 
-This is a project that I create following the tutorial on youtube [Curso Spring][def] to learn Spring and the use of java annotations.
+This is a project that I create following the tutorial on youtube [Curso Spring][def] to learn Spring and the use of java annotations. It's running over Java 1.8.341.10.
 It has some dependecies:
 
 - spring-r2dbc-5.3.9-sources.jar
